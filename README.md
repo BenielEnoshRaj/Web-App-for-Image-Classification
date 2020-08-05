@@ -6,4 +6,7 @@ Made use of GlobalMaxPooling instead of Flatten and Dense Layers at the end of t
 
 #Used flask and html to make a web application. 
     Learnt how to create a web application to hold said model and perform image classification.
-checkout :DeepLizard Blog
+source: DeepLizard Blog
+
+#Instances from working of App:
+![WebApp](https://github.com/BenielEnoshRaj/hello-world/blob/master/images/App_Screenshot.png)
